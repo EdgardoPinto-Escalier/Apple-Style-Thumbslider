@@ -17,5 +17,5 @@ Simple and clean "Apple style" thumbslider using jQuery.
 
 ## Live Demo
 
-You can see the live demo [HERE]()
+You can see the live demo [HERE](http://edgardopinto-escalierscoffe.github.io/Apple-Style-Thumbslider/)
 
